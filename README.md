@@ -1,2 +1,3 @@
 # MuseWell
 B&amp;A Library Policy
+This repository was created because in order request enhancements to Notepad++, it was necessary to create a bithub account and open a repository. Is all this REALLY necessary? Perhaps ....
